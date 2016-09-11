@@ -23,7 +23,7 @@ DKE course in summer 2016.
 
 Compile this as follows (using any Java 7 compiler):
 
-	javac -cp minitools ma/quickir/*.java
+	javac -encoding UTF-8 -cp minitools ma/quickir/*.java
 
 Notes for MDVL users
  * If you are on a MDVL system, you may use `$ make` or `$ make jar` as well.
