@@ -37,7 +37,7 @@ Compilation
 
 Compile this as follows (using any Java 7 compiler):
 
-	javac -encoding UTF-8 -cp minitools ma/quickir/*.java
+	javac -encoding UTF-8 $(find ma -type f -name '*.java')
 
 Alternatively, it is possible to compile by using `$ ant` or `$ ant jar`.
 
@@ -46,7 +46,7 @@ Usage
 
 Invoke the program as follows
 
-	java -cp minitools:. ma.quickir.Main <arguments>
+	java ma.quickir.Main <arguments>
 
 where arguments is a specfic commandline.
 
