@@ -2,12 +2,13 @@
 section: 32
 x-masysma-name: uni/dke/u11/5
 title: "UNI DKE U11/5: Information Retrieval"
-date: 2020/01/01 00:00:00
+date: 2016/09/11 22:09:55
 lang: en-US
 author: ["Linux-Fan, Ma_Sys.ma (Ma_Sys.ma@web.de)"]
 keywords: ["uni", "dke", "ir", "information", "retrieval", "quickir"]
 x-masysma-version: 1.0.0
 x-masysma-repository: https://www.github.com/m7a/bp-uni-dke-u11-5-quick-ir
+x-masysma-website: https://masysma.lima-city.de/32/uni_dke_u11_5.xhtml
 x-masysma-owned: 1
 x-masysma-copyright: |
   Ma_Sys.ma Quick Information Retrieval Version 1.0.0.0
